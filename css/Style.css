@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+div.a {
+  font-weight: em;
+  color: black;
+  font-size: 20px;;
+}
+#styledImage {
+  border: 5px solid black;
+}
