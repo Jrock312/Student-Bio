@@ -1,16 +1,21 @@
 body {
-  background-color: white;
+  background-color: whitesmoke;
+}
+header {
+  background:black;
 }
 
 h1 {
-  color: black;
+  color: whitesmoke;
   text-align: center;
 }
-div.a {
+p1  {
   font-weight: em;
-  color: black;
+  color: red;
   font-size: 20px;;
 }
 #styledImage {
+  width: 200px;
+  height: 200px;
   border: 5px solid black;
 }
